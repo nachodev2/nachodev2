@@ -12,6 +12,12 @@
 🤝 Look forward to collaborating on impactful projects
 </pre>
 
+<p align="left">
+  <a href="URL_DE_TU_CV_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/My%20resume-000000?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=000000&color=FFD700" alt="My Resume">
+  </a>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=npm+install+innovation;Building+from+scratch...;Fullstack+Dev+%2B+3D+Design;Vision+to+Reality+complete!" alt="Typing SVG" />
 </p>
@@ -45,8 +51,14 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 
+<h3 align="center">
+  <code style="color: #FFD700; background: none;">> Development Analytics _</code>
+</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nachodev2&show_icons=true&theme=transparent&title_color=FFD700&text_color=ffffff&icon_color=FFD700&border_color=FFD700" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachodev2&layout=compact&theme=transparent&title_color=FFD700&text_color=ffffff&icon_color=FFD700&border_color=FFD700" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nachodev2&theme=dark&background=0d1117&ring=FFD700&fire=FFD700&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&currStreakLabel=FFD700" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nachodev2&show_icons=true&theme=dark&bg_color=0d1117&title_color=FFD700&text_color=ffffff&icon_color=FFD700&border_color=30363d" alt="GitHub Stats" />
 </p>
