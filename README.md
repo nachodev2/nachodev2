@@ -75,7 +75,7 @@
   <a href="mailto:ruiztmsdev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=FFD700" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/tomas-ignacio-ruiz-4b8a83383" target="_blank">
+  <a href="https://www.linkedin.com/in/tom%C3%A1s-ruiz-188763377/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=FFD700" alt="LinkedIn" />
   </a>
   <a href="TU_PORTFOLIO_URL" target="_blank">
